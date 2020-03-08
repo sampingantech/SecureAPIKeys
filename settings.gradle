@@ -1,0 +1,2 @@
+rootProject.name='TestSecureApi'
+include ':app'
